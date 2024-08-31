@@ -22,7 +22,7 @@ export const EducationList = [
 // --------------------------------------- Education List
 export const ExperienceList = [
     {
-        img: "/goldman-sachs.png",
+        img: "./goldman-sachs.png",
         institute: "Goldman Sachs",
         year: "Jun 2023 - Aug 2023",
         occupation: "Software Engineering Summer Analyst",

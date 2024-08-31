@@ -25,7 +25,7 @@ function ExperienceCard() {
                             <h5>{list.year} </h5>
                             <h6>
                                 <div className="experience-pin">
-                                    <img src="/pin.png" alt="Location Pin" height="18px"/>
+                                    <img src="./pin.png" alt="Location Pin" height="18px"/>
                                 {list.location} 
                                 </div>
                             </h6>

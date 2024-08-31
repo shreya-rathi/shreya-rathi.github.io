@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/package.png",
+    img: "./package.png",
     title: "Package Develop & Deploy",
     description:
       "Developed an AWS-deployed Node.js package for evaluating TypeScript modules.",
@@ -9,7 +9,7 @@ export const ProjectList = [
     github_url: "https://github.com/fu351/Team-17-"
   },
   {
-    img: "/wellquest.png",
+    img: "./wellquest.png",
     title: "WellQuest Chrome Extension",
     description:
       "Developed a Chrome extension for personalized wellness tracking and recommendations.",
@@ -17,7 +17,7 @@ export const ProjectList = [
     github_url: "https://github.com/10ap/WellQuest",
   },
   {
-    img: "/transformers.png",
+    img: "./transformers.png",
     title: "Transformers & RNNs",
     description:
       "Implemented transformer components and RNN-based models for NLP tasks, including character prediction using Shakespeare's plays data.",
@@ -25,7 +25,7 @@ export const ProjectList = [
     github_url: "",
   },
   {
-    img: "/simon-says.png",
+    img: "./simon-says.png",
     title: "Simon Says",
     description:
       "Implemented 20+ submodules, demonstrating on FPGA with full I/O utilization and status messaging.",
@@ -33,7 +33,7 @@ export const ProjectList = [
     github_url: "",
   },
   {
-    img: "/nasa.png",
+    img: "./nasa.png",
     title: "NASA Aeronautics Design Challenge",
     description:
       "Developed an algorithm for autonomous firefighting vehicles, integrating APIs for flight control, water delivery, and refueling.",
@@ -41,7 +41,7 @@ export const ProjectList = [
     github_url: "",
   },
   {
-    img: "/tower-cad.png",
+    img: "./tower-cad.png",
     title: "TowerCAD",
     description:
       "Animated an original assembly inspired by the Eiffel Tower design and designed 45+ LEGO 3D models from scratch, starting with sketching.",
@@ -105,8 +105,8 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg",
     name: "Matlab",
   },
-  { //edit
-    img: "/verilog.png",
+  { 
+    img: "./verilog.png",
     name: "Verilog",
   },
   { 
@@ -126,7 +126,7 @@ export const stackList = [
     name: "MongoDB",
   },
   { 
-    img: "/singlestoredb.png",
+    img: "./singlestoredb.png",
     name: "SingleStoreDB",
   },
   {
