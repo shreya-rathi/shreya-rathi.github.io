@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/shreyarathi.github.io/static/css/main.04c263ad.css",
-    "main.js": "/shreyarathi.github.io/static/js/main.1e8e914b.js",
+    "main.js": "/shreyarathi.github.io/static/js/main.27053fd3.js",
     "index.html": "/shreyarathi.github.io/index.html",
     "static/media/blob-haikei.svg": "/shreyarathi.github.io/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
     "main.04c263ad.css.map": "/shreyarathi.github.io/static/css/main.04c263ad.css.map",
-    "main.1e8e914b.js.map": "/shreyarathi.github.io/static/js/main.1e8e914b.js.map"
+    "main.27053fd3.js.map": "/shreyarathi.github.io/static/js/main.27053fd3.js.map"
   },
   "entrypoints": [
     "static/css/main.04c263ad.css",
-    "static/js/main.1e8e914b.js"
+    "static/js/main.27053fd3.js"
   ]
 }
