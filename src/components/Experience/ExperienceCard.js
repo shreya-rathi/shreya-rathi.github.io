@@ -23,12 +23,12 @@ function ExperienceCard() {
                             <h4>{list.institute}</h4>
                             <h5>{list.occupation} </h5> 
                             <h5>{list.year} </h5>
-                            <h6>
+                            {/* <h6>
                                 <div className="experience-pin">
                                     <img src="./pin.png" alt="Location Pin" height="18px"/>
                                 {list.location} 
                                 </div>
-                            </h6>
+                            </h6> */}
                             <TechCardContainer>
                                 {list.skills.map((course, index) => (
                                     <TechCard key={index}>{course}</TechCard>

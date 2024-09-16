@@ -118,7 +118,7 @@ function Contact() {
               </span>
             </div>
 
-            {/* Twitter Card */}
+            {/* Behance Card */}
             <div 
               className="Card" 
               style={{
@@ -130,15 +130,15 @@ function Contact() {
                 cursor: "pointer",
                 size: "80px"
               }}
-              onClick={() => window.open("https://x.com/ShreyaRathi03", "_blank")}
+              onClick={() => window.open("https://www.behance.net/shreyarathii", "_blank")}
             >
               <img 
-                src="twitter-logo.png" 
-                alt="Twitter" 
+                src="adobe-logo.png" 
+                alt="Behance" 
                 style={{ width: "40px", height: "40px", marginRight: "20px" }} 
               />
               <span style={{ size: '40px'}}>
-                ShreyaRathi03
+                shreyarathii
               </span>
             </div>
           </div>
